@@ -1,0 +1,12 @@
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.FW\bin\Debug\GPO.FW.dll
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.FW\bin\Debug\GPO.FW.pdb
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.FW\bin\Debug\GPO.FW.xml
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.FW\bin\Debug\ClassLibNeoEnergia.dll
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.FW\bin\Debug\Interop.Neocriptografia.dll
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.FW\bin\Debug\ClassLibNeoEnergia.pdb
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.FW\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.FW\obj\Debug\GPO.FW.Resources.resources
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.FW\obj\Debug\GPO.FW.vbproj.GenerateResource.Cache
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.FW\obj\Debug\GPO.FW.dll
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.FW\obj\Debug\GPO.FW.xml
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.FW\obj\Debug\GPO.FW.pdb

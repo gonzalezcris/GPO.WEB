@@ -1,0 +1,33 @@
+<asp:GridView runat="server" GridLines="none" CellPadding="3">
+    <FooterStyle BackColor="transparent" BorderColor="White" Font-Bold="True" Font-Names="Tahoma, Verdana, Arial, Helvetica, sans-serif"
+        Font-Size="8pt" ForeColor="#186BA5" />
+    <RowStyle BackColor="transparent" BorderColor="White" Font-Names="Tahoma, Verdana, Arial, Helvetica, sans-serif"
+        Font-Size="8pt" ForeColor="#186BA5" />
+    <PagerStyle BackColor="transparent" BorderColor="White" Font-Bold="True" Font-Names="Tahoma, Verdana, Arial, Helvetica, sans-serif"
+        Font-Size="8pt" ForeColor="Blue" HorizontalAlign="Right" />
+    <HeaderStyle BackColor="transparent" BorderColor="White" Font-Bold="True" Font-Names="Tahoma, Verdana, Arial, Helvetica, sans-serif"
+        Font-Size="8pt" ForeColor="#186BA5" />
+    <AlternatingRowStyle BackColor="transparent" BorderColor="White" Font-Names="Tahoma, Verdana, Arial, Helvetica, sans-serif"
+        Font-Size="8pt" Font-Strikeout="False" ForeColor="#186BA5" />
+    <EmptyDataRowStyle BackColor="transparent" ForeColor="#186BA5" BorderColor="White" Font-Bold="True" Font-Names="Tahoma,Verdana,Arial,Helvetica,sans-serif"
+        Font-Size=" 8pt" HorizontalAlign="Center" />
+</asp:GridView>
+
+<asp:Label SkinId="lblForm" runat="server" Font-Bold="false"></asp:Label>
+<asp:Label SkinId="lblEx" runat="server" Font-Bold="false" Font-Size="Smaller" ForeColor="darkred"></asp:Label>
+<asp:Label SkinId="lblDados" runat="server" Font-Bold="true"></asp:Label>
+
+<asp:Button runat="server" BackColor="#F3F7FB" BorderColor="#5376A3"
+     BorderStyle="Solid" BorderWidth="1px" Font-Bold="True" Font-Names="Tahoma, Verdana, Arial, Helvetica, sans-serif"
+     Font-Size="10px" ForeColor="#5376A3" Height="18px" />
+     
+<asp:TextBox runat="server" BackColor="white" BorderColor="#B4B4B4"
+     BorderStyle="Solid" BorderWidth="1px" Font-Names="Verdana, Arial, Helvetica, sans-serif"
+     Font-Size="10px" ForeColor="Black" Height="14px" />
+     
+<asp:DropDownList runat="server" BackColor="white" Font-Names="Tahoma, Verdana, Arial, Helvetica, sans-serif" 
+     Font-Size="8pt" ForeColor="Black" BorderColor="#B4B4B4" />
+     
+<asp:FileUpload runat="server" BackColor="white" BorderColor="#B4B4B4"
+    BorderStyle="Solid" BorderWidth="1px" Font-Bold="False" Font-Names="Verdana, Arial, Helvetica, sans-serif"
+    Font-Size="10px" ForeColor="Black" Height="18px" />

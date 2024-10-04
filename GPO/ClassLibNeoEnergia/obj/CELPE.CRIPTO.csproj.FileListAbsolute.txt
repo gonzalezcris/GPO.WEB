@@ -1,0 +1,10 @@
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\ClassLibNeoEnergia\bin\Debug\ClassLibNeoEnergia.dll
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\ClassLibNeoEnergia\bin\Debug\ClassLibNeoEnergia.pdb
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\ClassLibNeoEnergia\bin\Debug\Interop.Neocriptografia.dll
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\ClassLibNeoEnergia\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\ClassLibNeoEnergia\obj\Debug\Interop.Neocriptografia.dll
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\ClassLibNeoEnergia\obj\Debug\CELPE.CRIPTO.csproj.ResolveComReference.cache
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\ClassLibNeoEnergia\obj\Debug\ClassLibNeoEnergia.Properties.Resources.resources
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\ClassLibNeoEnergia\obj\Debug\CELPE.CRIPTO.csproj.GenerateResource.Cache
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\ClassLibNeoEnergia\obj\Debug\ClassLibNeoEnergia.dll
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\ClassLibNeoEnergia\obj\Debug\ClassLibNeoEnergia.pdb

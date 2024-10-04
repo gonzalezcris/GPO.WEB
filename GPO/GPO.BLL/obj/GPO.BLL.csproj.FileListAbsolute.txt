@@ -1,0 +1,15 @@
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.BLL\bin\Debug\GPO.BLL.dll
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.BLL\bin\Debug\GPO.BLL.pdb
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.BLL\bin\Debug\GPO.DS.dll
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.BLL\bin\Debug\GPO.ENTIDADES.dll
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.BLL\bin\Debug\GPO.FW.dll
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.BLL\bin\Debug\ClassLibNeoEnergia.dll
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.BLL\bin\Debug\Interop.Neocriptografia.dll
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.BLL\bin\Debug\GPO.FW.pdb
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.BLL\bin\Debug\GPO.FW.xml
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.BLL\bin\Debug\GPO.ENTIDADES.pdb
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.BLL\bin\Debug\ClassLibNeoEnergia.pdb
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.BLL\bin\Debug\GPO.DS.pdb
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.BLL\obj\Debug\GPO.BLL.dll
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.BLL\obj\Debug\GPO.BLL.pdb

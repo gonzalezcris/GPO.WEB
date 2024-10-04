@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsErro" targetNamespace="http://tempuri.org/dsErro.xsd" xmlns:mstns="http://tempuri.org/dsErro.xsd" xmlns="http://tempuri.org/dsErro.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsErro" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="dsErro" msprop:Generator_DataSetName="dsErro">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="TbErros" msprop:Generator_UserTableName="TbErros" msprop:Generator_RowDeletedName="TbErrosRowDeleted" msprop:Generator_TableClassName="TbErrosDataTable" msprop:Generator_RowChangedName="TbErrosRowChanged" msprop:Generator_RowClassName="TbErrosRow" msprop:Generator_RowChangingName="TbErrosRowChanging" msprop:Generator_RowEvArgName="TbErrosRowChangeEvent" msprop:Generator_RowEvHandlerName="TbErrosRowChangeEventHandler" msprop:Generator_TablePropName="TbErros" msprop:Generator_TableVarName="tableTbErros" msprop:Generator_RowDeletingName="TbErrosRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="codErro" msprop:Generator_UserColumnName="codErro" msprop:Generator_ColumnPropNameInRow="codErro" msprop:Generator_ColumnVarNameInTable="columncodErro" msprop:Generator_ColumnPropNameInTable="codErroColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="keyErro" msprop:Generator_UserColumnName="keyErro" msprop:Generator_ColumnPropNameInRow="keyErro" msprop:Generator_ColumnVarNameInTable="columnkeyErro" msprop:Generator_ColumnPropNameInTable="keyErroColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="desErro" msprop:Generator_UserColumnName="desErro" msprop:Generator_ColumnPropNameInRow="desErro" msprop:Generator_ColumnVarNameInTable="columndesErro" msprop:Generator_ColumnPropNameInTable="desErroColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,10 @@
+
+
+
+#dhtmltooltip{position: absolute; width: 220px; border: 1px solid black; padding: 2px; text-align: center; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; color: #000000; background-color: #FFFFCC; visibility: hidden; z-index: 100;}
+#dhtmltooltip{position: absolute; left: -300px; width: 150px; border: 1px solid black; padding: 2px; background-color: lightyellow; visibility: hidden; z-index: 100; filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135, strength=3);}
+#dhtmlpointer{position: absolute; left: -300px; z-index: 101; visibility: hidden;}
+
+
+
+

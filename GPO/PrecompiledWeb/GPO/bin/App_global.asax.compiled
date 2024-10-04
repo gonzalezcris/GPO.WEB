@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="8" virtualPath="/GPO/global.asax" hash="6319b2a5" filehash="2fd748529287" flags="150000" assembly="App_global.asax" type="ASP.global_asax">
+    <filedeps>
+        <filedep name="/GPO/global.asax" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,114 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GPO.FW
+</name>
+</assembly>
+<members>
+<member name="T:GPO.FW.dsErro.TbErrosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:GPO.FW.dsErro.TbErrosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:GPO.FW.dsErro.TbErrosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:GPO.FW.dsErro">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="M:GPO.FW.Util.GetRandomNumber(System.Int32,System.Int32)">
+ -----------------------------------------------------------------------------
+ <summary>Retorna numeros randomicos</summary>
+	<param name="LimiteInferior">Limite inferior</param>
+	<param name="LimiteSuperior">Limite superior</param>
+	<returns>Número randomico</returns>
+	<history>
+ 	[fcampinho]	12/11/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:GPO.FW.Restricao.ListarPerfil">
+ -----------------------------------------------------------------------------
+ <summary>Lista Perfis do sistema</summary>
+	<returns>DataView com lista de perfis</returns>
+	<history>
+ 	[fcampinho]	12/11/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:GPO.FW.Restricao.VerificaRestricao(System.Int32,System.Object@,System.String)">
+ -----------------------------------------------------------------------------
+ <summary>Verifica restrição do objeto</summary>
+	<param name="tipPerfil">Perfil do usuário logado</param>
+	<param name="Pagina">Objeto {PAGE}</param>
+	<param name="ID">Nome da página</param>
+	<history>
+ 	[fcampinho]	12/11/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:GPO.FW.dsBase.ConsultarTabela(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>Consulta tabela</summary>
+	<param name="Tabela">Nome da tabela</param>
+	<returns>DataReader com dados da tabela</returns>
+	<history>
+ 	[fcampinho]	12/11/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:GPO.FW.dsBase.ObterEstrutura(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>Obtem estrutura da tabela</summary>
+	<param name="Tabela">Nome da tabela</param>
+	<returns>DataSet com estrutura da tabela</returns>
+	<history>
+ 	[fcampinho]	12/11/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:GPO.FW.dsBase.ObterPrimaryKey(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>Lista de primary keys de uma tabela</summary>
+	<param name="Tabela">Nome da tabela</param>
+	<returns>Array de strings</returns>
+	<remarks>Somente disponível para SQL Server
+ </remarks>
+	<history>
+ 	[fcampinho]	12/11/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:GPO.FW.dsBase.ObterForeignKey(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>Lista de foreign keys de uma tabela</summary>
+	<param name="Tabela">Nome da tabela</param>
+	<returns>Array de strings</returns>
+	<remarks>Somente disponível para SQL Server
+ </remarks>
+	<history>
+ 	[fcampinho]	12/11/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member><member name="M:GPO.FW.dsBase.Listar(System.String)">
+ -----------------------------------------------------------------------------
+ <summary>Lista os dados de uma tabela</summary>
+	<param name="Tabela"></param>
+	<returns></returns>
+	<remarks>
+	</remarks>
+	<history>
+ 	[fcampinho]	12/11/2005	Created
+ </history>
+ -----------------------------------------------------------------------------
+
+</member>
+</members>
+</doc>

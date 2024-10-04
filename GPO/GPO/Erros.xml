@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dsErro xmlns="http://tempuri.org/dsErro.xsd">
+	<TbErros>
+		<codErro>1</codErro>
+		<keyErro>Acesso negado!</keyErro>
+		<desErro>Acesso negado!</desErro>
+	</TbErros>
+  <TbErros>
+    <codErro>2</codErro>
+    <keyErro>FKY_BNC_AGN</keyErro>
+    <desErro>Não é possível excluir BANCO, existem AGÊNCIAS associadas!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>3</codErro>
+    <keyErro>FKY_LOC_AGN</keyErro>
+    <desErro>Não é possível excluir LOCALIDADE, existem AGÊNCIAS associadas!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>4</codErro>
+    <keyErro>FKY_EST_LOC</keyErro>
+    <desErro>Não é possível excluir ESTADO, existem LOCALIDADES associadas!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>5</codErro>
+    <keyErro>FKY_ARE_LOC</keyErro>
+    <desErro>Não é possível excluir ÁREA, existem LOCALIDADES associadas!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>6</codErro>
+    <keyErro>FKY_ARE_BAI</keyErro>
+    <desErro>Não é possível excluir AREA, existem BAIRROS associadas!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>7</codErro>
+    <keyErro>FKY_CDP_GPR</keyErro>
+    <desErro>Não é possível excluir CLASSE DE DEPENDENTE, existem GRAUS DE PARENTESCO associados!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>8</codErro>
+    <keyErro>FKY_TDC_GPR</keyErro>
+    <desErro>Não é possível excluir TIPO DE DESCONTO, existem GRAUS DE PARENTESCO associados!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>9</codErro>
+    <keyErro>FKY_TRT_PLN</keyErro>
+    <desErro>Não é possível excluir TIPO DE RATEIO, existem PLANOS associados!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>10</codErro>
+    <keyErro>FKY_TCT_PLN</keyErro>
+    <desErro>Não é possível excluir TIPO DE CONTRATAÇÃO, existem PLANOS associados!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>11</codErro>
+    <keyErro>FKY_TSG_PLN</keyErro>
+    <desErro>Não é possível excluir TIPO DE SEGMENTAÇÃO, existem PLANOS associados!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>12</codErro>
+    <keyErro>FKY_ABR_PLN</keyErro>
+    <desErro>Não é possível excluir ABRANGÊNCIA, existem PLANOS associados!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>13</codErro>
+    <keyErro>FKY_AGN_FLH</keyErro>
+    <desErro>Não é possível excluir AGÊNCIA, existem FOLHAS associadas!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>14</codErro>
+    <keyErro>FKY_TDC_LMD</keyErro>
+    <desErro>Não é possível excluir TIPO DE DESCONTO, existem LIMITES DE DESCONTO associados!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>15</codErro>
+    <keyErro>FKY_PLN_LMD</keyErro>
+    <desErro>Não é possível excluir PLANO, existem LIMITES DE DESCONTO associados!</desErro>
+  </TbErros>
+
+  <TbErros>
+    <codErro>101</codErro>
+    <keyErro>FKY_AIN_INF</keyErro>
+    <desErro>Não é possível excluir ÁREA DE INFORMATIVOS, existem INFORMATIVOS associadas!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>102</codErro>
+    <keyErro>FKY_TAR_ARQ</keyErro>
+    <desErro>Não é possível excluir TIPO DE ARQUIVO, existem ARQUIVOS associados!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>103</codErro>
+    <keyErro>FKY_AGN_ASS</keyErro>
+    <desErro>Não é possível excluir AGÊNCIA, existem ASSOCIADOS vinculados!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>104</codErro>
+    <keyErro>FKY_BAI_ASS</keyErro>
+    <desErro>Não é possível excluir BAIRRO, existem ASSOCIADOS vinculados!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>105</codErro>
+    <keyErro>FKY_EMP_ASS</keyErro>
+    <desErro>Não é possível excluir EMPRESA, existem ASSOCIADOS vinculados!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>106</codErro>
+    <keyErro>FKY_FLH_ASS</keyErro>
+    <desErro>Não é possível excluir FOLHA, existem ASSOCIADOS vinculados!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>107</codErro>
+    <keyErro>FKY_PLN_ASS</keyErro>
+    <desErro>Não é possível excluir PLANO, existem ASSOCIADOS vinculados!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>108</codErro>
+    <keyErro>FKY_ASS_HPL</keyErro>
+    <desErro>Não é possível excluir ASSOCIADO, existe HISTORICO DE PLANOS associados!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>109</codErro>
+    <keyErro>FKY_PLN_HPL</keyErro>
+    <desErro>Não é possível excluir PLANO, existem HISTORICOS DE PLANOS associados!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>110</codErro>
+    <keyErro>FKY_ASS_AFA</keyErro>
+    <desErro>Não é possível excluir ASSOCIADO, existem AFASTAMENTOS associados!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>111</codErro>
+    <keyErro>FKY_MTA_AFA</keyErro>
+    <desErro>Não é possível excluir MOTIVO DE AFASTAMENTO, existem AFASTAMENTOS associados!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>112</codErro>
+    <keyErro>FKY_TDC_TDF</keyErro>
+    <desErro>Não é possível excluir TIPO DE DESCONTO, existem TIPO DESCONTO FOLHA associados!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>113</codErro>
+    <keyErro>FKY_FLH_TDF</keyErro>
+    <desErro>Não é possível excluir FOLHA, existem TIPO DESCONTO FOLHA associados!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>114</codErro>
+    <keyErro>FKY_TDC_DCN</keyErro>
+    <desErro>Não é possível excluir TIPO DE DESCONTO, existem DESCONTOS associados!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>115</codErro>
+    <keyErro>FKY_CDP_CCL</keyErro>
+    <desErro>Não é possível excluir CLASSE DE DEPENDENTE, existem CUSTOS DE CLASSE associados!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>116</codErro>
+    <keyErro>FKY_GRP_CGR</keyErro>
+    <desErro>Não é possível excluir GRAU DE PARENTESCO, existem CUSTOS DE GRAUS associados!</desErro>
+  </TbErros>
+  <TbErros>
+    <codErro>117</codErro>
+    <keyErro>FKY_ASS_DCN</keyErro>
+    <desErro>Não é possível excluir ASSOCIADO, existem DESCONTOS associados!</desErro>
+  </TbErros>
+
+</dsErro>

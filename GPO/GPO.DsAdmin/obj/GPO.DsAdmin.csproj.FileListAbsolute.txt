@@ -1,0 +1,11 @@
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.DsAdmin\bin\Debug\GPO.DsAdmin.dll
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.DsAdmin\bin\Debug\GPO.DsAdmin.pdb
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.DsAdmin\bin\Debug\GPO.FW.dll
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.DsAdmin\bin\Debug\Interop.Neocriptografia.dll
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.DsAdmin\bin\Debug\ClassLibNeoEnergia.dll
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.DsAdmin\bin\Debug\GPO.FW.pdb
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.DsAdmin\bin\Debug\GPO.FW.xml
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.DsAdmin\bin\Debug\ClassLibNeoEnergia.pdb
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.DsAdmin\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.DsAdmin\obj\Debug\GPO.DsAdmin.dll
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.DsAdmin\obj\Debug\GPO.DsAdmin.pdb

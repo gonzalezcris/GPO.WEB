@@ -1,0 +1,58 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Externo.master.cs" Inherits="MasterPage" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Sistema Gestão de Programa de Objetivo - GPO</title>
+
+    <script language="javascript" type="text/javascript" src="../js/javaScript.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="../css/stylesheet.css" />
+    <link rel="Shortcut Icon" type="image/ico" href="../img/favico.ico" />
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Cache-control" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="main">
+            <div id="top-sistema">
+                <asp:Literal ID="ltAppSilgaNomeTop" runat="server"></asp:Literal>
+            </div>
+            <div id="top">
+                <table border="0" width="100%">
+                    <tr>
+                        <td>
+                            <img src="img/logo_empresa0.gif" />
+                        </td>
+                        <td align="right">
+                            <asp:Label ID="Label1" runat="server" Text="Usuário: "></asp:Label><asp:Label ID="Label2"
+                                runat="server" Font-Bold="True" Text="Usuário não logado, "></asp:Label><asp:Label
+                                    ID="lblData" runat="server" Text="Label"></asp:Label>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div id="menuexterno" class="menuexterno">
+                &nbsp;
+            </div>
+            <div id="container">
+                <!-- Início da página -->
+                <div>
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                    <asp:ValidationSummary ID="ValidationSummary1" runat="server" ShowMessageBox="True"
+                        ShowSummary="False" />
+                </div>
+                <!-- Fim da página -->
+            </div>
+            <div id="bottom">
+                <asp:Literal ID="ltAppSilgaNomeBase" runat="server"></asp:Literal>
+                |
+                <asp:Literal ID="ltAppNomeEmpresa" runat="server"></asp:Literal>
+                - Grupo Neoenergia &copy
+                <asp:Literal ID="ltAppAnoSistema" runat="server"></asp:Literal>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

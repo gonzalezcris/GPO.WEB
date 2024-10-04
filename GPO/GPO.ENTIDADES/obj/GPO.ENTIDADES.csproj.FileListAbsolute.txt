@@ -1,0 +1,5 @@
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.ENTIDADES\bin\Debug\GPO.ENTIDADES.dll
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.ENTIDADES\bin\Debug\GPO.ENTIDADES.pdb
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.ENTIDADES\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.ENTIDADES\obj\Debug\GPO.ENTIDADES.dll
+C:\Documents and Settings\STF295517\Meus documentos\Visual Studio 2005\Projects\GPO.WEB\GPO\GPO.ENTIDADES\obj\Debug\GPO.ENTIDADES.pdb
